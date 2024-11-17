@@ -4,4 +4,4 @@ To use this tool, download the source code and replace the 200k.txt file with yo
 
 This source code is accompanied by a speed report, containing an analysis of the various other file search methods and algorithms that I tested before deciding on using the memory mapping method.
 
-I hope you enjoy using this tool as much as I enjoyed deveoping it.
+I hope you enjoy using this tool as much as I enjoyed developing it.
